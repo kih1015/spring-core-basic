@@ -12,7 +12,7 @@ import hello.core.member.MemoryMemberRepository;
 import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 
-//@Configuration
+@Configuration
 public class AppConfig {
 
     @Bean
